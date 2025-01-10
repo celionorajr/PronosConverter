@@ -12,7 +12,7 @@ Pronos Converter é uma aplicação desenvolvida em Python com PyQt5 para conver
 
 ## Captura de Tela
 
-![Interface do Pronos Converter]([./screenshot.png](https://i.postimg.cc/5y1GBvRP/Captura-de-tela-2025-01-10-132506.png))
+![Interface do Pronos Converter](./Tela.png)
 
 ## Requisitos
 
