@@ -1,0 +1,8 @@
+{
+    "output_folder": "Z:/dicom",
+    "pacs": {
+        "ae_title": "PACSPOLOS",
+        "ip": "192.168.100.67",
+        "port": 11112
+    }
+}
